@@ -1,2 +1,2 @@
 # python_curs
-homework of puthone curs
+homework of puthon curs
