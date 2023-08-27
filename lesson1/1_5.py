@@ -37,14 +37,14 @@
     #print(i)
 
 #Задание 5
-x = int(input())
-i = 1
-while i**2 < x :
-    if (i+1)**2 > x :
-        print(i**2)
-        break
-    print(i**2)
-    i+=1
+#x = int(input())
+#i = 1
+#while i**2 < x :
+#    if (i+1)**2 > x :
+#        print(i**2)
+#        break
+#    print(i**2)
+#    i+=1
 
 #! Задание 6
 
